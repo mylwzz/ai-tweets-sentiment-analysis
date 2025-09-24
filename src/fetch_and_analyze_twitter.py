@@ -4,7 +4,8 @@ import argparse
 import pandas as pd
 from pathlib import Path
 import tweepy
-from common import preprocess_dataframe
+
+from src.cleanvader import preprocess_dataframe
 
 OUT_DIR = Path("outputs"); FIG_DIR = OUT_DIR / "figures"
 OUT_DIR.mkdir(exist_ok=True); FIG_DIR.mkdir(parents=True, exist_ok=True)
