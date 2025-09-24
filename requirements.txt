@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+seaborn
+tqdm
+python-dateutil
+nltk
+pyspellchecker
+textblob
+tweepy
+scikit-learn
+scipy
+umap-learn
+sentence-transformers
+plotly
+wordcloud
