@@ -4,4 +4,4 @@ A Twitter-Based Sentiment Analysis of ChatGPT and DeepSeek
 Please reach out for a formal review on this topic!
 
 
-[Quick example of data viz](outputs/figures/local_vader_counts.png)
+![Quick example of data viz - VADER counts](outputs/figures/local_vader_counts.png)
